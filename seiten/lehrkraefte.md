@@ -19,7 +19,7 @@ Querschnitts-Lernpfad **K8 „KI verantwortlich nutzen“** aus dem Materialpool
 
 ## Werkzeugfrage
 
-Welches KI-Werkzeug für Schüler:innen freigegeben ist, ist im Konzept noch offen. Der Pfad funktioniert deshalb **ohne eigenes KI-Werkzeug**: Alle KI-Antworten sind erfunden und im Modul abgedruckt. Nur die Plus-Aufgabe in V3 nutzt ein Werkzeug – ausdrücklich nur, wenn es freigegeben ist.
+Für Schüler:innen wird ein **fobizz-Klassenraum** bereitgestellt, den die Lehrkräfte nach Bedarf einrichten. Der Pfad funktioniert trotzdem **ohne KI-Werkzeug**: Alle KI-Antworten sind erfunden und im Modul abgedruckt. Die Plus-Aufgabe in V3 nutzt den fobizz-Klassenraum – den Link oder Code bitte im Channel des Fachs teilen. Für weitere Aufgaben (z. B. Antworten vergleichen in V1, Elterninfo vereinfachen in B2-Plus) kann der Klassenraum ebenfalls genutzt werden; die KI-Ampel im Auftrag legen Sie fest.
 
 ## Lösungshinweise
 
