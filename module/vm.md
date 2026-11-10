@@ -1,7 +1,7 @@
 ---
 titel: "Meilenstein: KI-Antwort prüfen"
 minuten: 30
-review: geprueft
+review: freigegeben
 quellen: [q-socialnet-berliner]
 meilenstein: true
 lernziele:

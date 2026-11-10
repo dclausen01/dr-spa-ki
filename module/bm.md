@@ -1,7 +1,7 @@
 ---
 titel: "Meilenstein: Einsatz oder Verzicht?"
 minuten: 60
-review: geprueft
+review: freigegeben
 meilenstein: true
 lernziele:
   - für eine berufliche Situation begründet entscheiden, ob KI eingesetzt wird,
