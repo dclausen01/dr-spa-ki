@@ -1,0 +1,64 @@
+# Quellen mit Prüfstatus – siehe referenzen/qualitaet.md
+- id: q-ki-kompetenzmodell
+  titel: "Alles, Falck, Flick, Schulz (2025): KI-Kompetenzen für Lehrende und Lernende (Verstehen – Anwenden – Reflektieren – Mitgestalten); DR-Konzept SPA, Bereich K8"
+  url: ""
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-11-10
+  belegt: "Struktur des Lernpfads nach den vier Kompetenzbereichen (Angabe aus dem DR-Konzept)"
+- id: q-klicksafe-ki
+  titel: klicksafe – Aufwachsen mit KI (Infobroschüre für Eltern)
+  url: https://www.klicksafe.de/fileadmin/cms/download/Material/Aufwachsen-mit-KI_Infobroschuere-Eltern_klicksafe.pdf
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-11-10
+  belegt: "Grundbegriffe KI, Risiken (Desinformation, Deep Fakes, Privatsphäre), Kinder und KI"
+- id: q-bsi-stellungnahme
+  titel: BSI – Stellungnahme an den Deutschen Bundestag zu generativer KI
+  url: https://www.bundestag.de/resource/blob/949326/67af46a4995d91070d4dfd8275c43eb8/Stellungnahme-BSI.pdf
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-11-10
+  belegt: "Risiken: fehlende Faktentreue (Halluzinieren), mangelnde Reproduzierbarkeit; Vertraulichkeit von Eingaben"
+- id: q-dsgvo-art4
+  titel: Art. 4 Nr. 1 DSGVO – personenbezogene Daten
+  url: https://dsgvo-gesetz.de/art-4-dsgvo/
+  art: gesetz
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Begriff personenbezogene Daten, Identifizierbarkeit auch indirekt"
+- id: q-dsgvo-art9
+  titel: Art. 9 DSGVO – besondere Kategorien personenbezogener Daten
+  url: https://dsgvo-gesetz.de/art-9-dsgvo/
+  art: gesetz
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "Gesundheit, Herkunft, Religion u. a."
+- id: q-awmf-s2k
+  titel: S2k-Leitlinie „Prävention dysregulierten Bildschirmmediengebrauchs in Kindheit und Jugend“ (AWMF 027-075, 2023)
+  url: https://register.awmf.org/assets/guidelines/027-075l_S2k_Praevention-dysregulierten-Bildschirmmediengebrauchs-Kinder-Jugendliche_2023-09.pdf
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "unter 3 keine Bildschirmmedien; 3–6 höchstens 30 Min./Tag (für die Lösung zu B2)"
+- id: q-bildungsleitlinien
+  titel: "Erfolgreich starten – Leitlinien für Bildung und Erziehung in Kindertageseinrichtungen und der Kindertagespflege (SH, Februar 2026), Kapitel 3.7"
+  url: https://www.schleswig-holstein.de/DE/fachinhalte/K/kita/bill/bildungsleitlinien
+  art: lehrplan
+  status: verifiziert
+  geprueft_am: 2026-11-09
+  belegt: "digitale Medien als Übersetzungshilfe; Medienerfahrungen der Kinder aufgreifen (Auszug der Lehrkraft)"
+- id: q-socialnet-berliner
+  titel: socialnet Lexikon – Berliner Eingewöhnungsmodell
+  url: https://www.socialnet.de/lexikon/Berliner-Eingewoehnungsmodell
+  art: fachliteratur
+  status: verifiziert
+  geprueft_am: 2026-11-10
+  belegt: "INFANS (Laewen u. a.), Grundphase 3 Tage mit Bezugsperson, Trennungsversuch Tag 4, Stabilisierungs- und Schlussphase, Bindung an Bezugsfachkraft, Dauer individuell (Lösung zum Meilenstein V)"
+- id: q-dr-konzept
+  titel: DR-Konzept SPA (Entwurf v0.5) und Übergabe-Briefing Web-Lernpfade
+  url: ""
+  art: eigene
+  status: verifiziert
+  geprueft_am: 2026-11-10
+  belegt: "KI-Ampel, Kennzeichnung, KI-Protokoll, Datenschutzregel (keine Kinder- und Familiendaten in KI), Bausteine von Lernpfad 5"

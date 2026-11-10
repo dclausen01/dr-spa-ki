@@ -1,0 +1,56 @@
+# Kursbeschreibung – KI verantwortlich nutzen (DR-Materialpool SPA, Querschnitts-Lernpfad K8)
+titel: KI verantwortlich nutzen
+kurzname: dr-spa-ki
+ueberschrift: KI verantwortlich nutzen
+untertitel: Sie verstehen, wie generative KI arbeitet, nutzen sie nach klaren Regeln – und entscheiden als Fachkraft begründet, wann KI hilft und wann nicht.
+badges: [SPA, K8 KI, "2 Stufen · ca. 5 Std."]
+fusszeile: BBZ Rendsburg-Eckernförde · Abteilung SPA · Materialpool Digitaler Raum · Stand 11/2026
+logo_zeichen: "KI"
+sprache: de
+anrede: sie
+notizfrage: "Was nehmen Sie mit – für Ihr Lernen und für Ihre Arbeit in Kita, OGS oder Grundschule?"
+
+einleitung: |
+  :::notiz 👉 Worum geht es?
+  KI-Werkzeuge wie Chatbots schreiben Texte, beantworten Fragen und erzeugen Bilder. Das kann beim Lernen und im Beruf helfen – wenn man weiß, wie sie arbeiten, wo ihre Grenzen liegen und welche Daten niemals hineingehören.
+
+  Der Lernpfad folgt vier Schritten: **Verstehen – Anwenden – Reflektieren – Mitgestalten**. Stufe 1 übt Verstehen und Anwenden, Stufe 2 Reflektieren und Mitgestalten im Beruf. Jede Stufe passt in einen DR-Tag.
+  :::
+
+  :::tipp So arbeiten Sie mit dem Lernpfad
+  1. Machen Sie zuerst den **Selbstcheck** unten.
+  2. Sie brauchen **kein** eigenes KI-Werkzeug: Alle Aufgaben enthalten fertige, **erfundene** KI-Antworten zum Prüfen.
+  3. Nutzen Sie KI-Werkzeuge nur, wenn Ihre Lehrkraft das Werkzeug freigegeben hat – und **nie** mit persönlichen Daten.
+  :::
+
+stufen:
+  - id: verstehen
+    name: Verstehen und Anwenden
+    icon: "🌱"
+    text: Wie generative KI arbeitet, KI-Ampel und Kennzeichnung, gut fragen und kritisch prüfen.
+    module: [v1, v2, v3, vm]
+  - id: im-beruf
+    name: Im Beruf
+    icon: "🚀"
+    text: Was nie in die KI gehört, einen KI-Elternbrief prüfen, KI in Kita, OGS und Grundschule – und eine begründete Entscheidung.
+    module: [b1, b2, b3, bm]
+
+selbstcheck:
+  fragen:
+    - frage: Ich kann erklären, wie ein KI-Chatbot zu seinen Antworten kommt.
+      antworten: [Noch nicht, Ein bisschen, Ziemlich gut, Sicher]
+    - frage: Ich prüfe KI-Antworten, bevor ich sie übernehme.
+      antworten: [Nie, Manchmal, Meistens, Immer]
+    - frage: Ich weiß, wie ich KI-Nutzung kennzeichne und was die KI-Ampel bedeutet.
+      antworten: [Noch nicht, Ein bisschen, Ziemlich gut, Sicher]
+  empfehlung:
+    - {bis: 6, stufe: verstehen, hinweis: "Starten Sie mit „Verstehen und Anwenden“ – Modul V1."}
+    - {stufe: im-beruf, hinweis: "Sie kennen sich schon aus. Machen Sie den Einstufungstest – dann geht es weiter mit „Im Beruf“."}
+
+einstufung: {bestehen: 80}
+
+moodle:
+  version: 5
+  freischaltung: einstufung
+  reihenfolge: nacheinander
+  raster_punkte: [0, 2, 3]

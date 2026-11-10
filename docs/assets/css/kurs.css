@@ -1,0 +1,9 @@
+/* Erzeugt von bauen.py: Farben der Stufen und Varianten dieses Kurses. */
+:root {
+  --lv-verstehen: var(--lv-1); --lv-verstehen-soft: var(--lv-1-soft);
+  --lv-im-beruf: var(--lv-2); --lv-im-beruf-soft: var(--lv-2-soft);
+}
+.badge.lv-verstehen { background: var(--lv-verstehen-soft); color: var(--deep); box-shadow: inset 3px 0 0 var(--lv-verstehen); }
+.level-card.verstehen { border-top-color: var(--lv-verstehen); }
+.badge.lv-im-beruf { background: var(--lv-im-beruf-soft); color: var(--deep); box-shadow: inset 3px 0 0 var(--lv-im-beruf); }
+.level-card.im-beruf { border-top-color: var(--lv-im-beruf); }

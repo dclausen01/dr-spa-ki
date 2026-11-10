@@ -1,0 +1,89 @@
+{
+ "titel": "KI verantwortlich nutzen",
+ "kurzname": "dr-spa-ki",
+ "seiten": [
+  {
+   "datei": "v1-wie-funktioniert-generative-ki.html",
+   "art": "modul",
+   "id": "v1",
+   "titel": "Wie funktioniert generative KI?",
+   "review": "geprueft"
+  },
+  {
+   "datei": "v2-ki-ampel-und-kennzeichnung.html",
+   "art": "modul",
+   "id": "v2",
+   "titel": "KI-Ampel und Kennzeichnung",
+   "review": "geprueft"
+  },
+  {
+   "datei": "v3-gut-fragen-kritisch-prufen.html",
+   "art": "modul",
+   "id": "v3",
+   "titel": "Gut fragen, kritisch prüfen",
+   "review": "geprueft"
+  },
+  {
+   "datei": "vm-meilenstein-ki-antwort-prufen.html",
+   "art": "modul",
+   "id": "vm",
+   "titel": "Meilenstein: KI-Antwort prüfen",
+   "review": "geprueft"
+  },
+  {
+   "datei": "b1-was-nie-in-die-ki-gehort.html",
+   "art": "modul",
+   "id": "b1",
+   "titel": "Was nie in die KI gehört",
+   "review": "geprueft"
+  },
+  {
+   "datei": "b2-ki-texte-prufen-der-elternbrief.html",
+   "art": "modul",
+   "id": "b2",
+   "titel": "KI-Texte prüfen: der Elternbrief",
+   "review": "geprueft"
+  },
+  {
+   "datei": "b3-ki-in-kita-ogs-und-grundschule.html",
+   "art": "modul",
+   "id": "b3",
+   "titel": "KI in Kita, OGS und Grundschule",
+   "review": "geprueft"
+  },
+  {
+   "datei": "bm-meilenstein-einsatz-oder-verzicht.html",
+   "art": "modul",
+   "id": "bm",
+   "titel": "Meilenstein: Einsatz oder Verzicht?",
+   "review": "geprueft"
+  },
+  {
+   "datei": "spickzettel.html",
+   "art": "seite",
+   "titel": "Spickzettel: KI verantwortlich nutzen"
+  },
+  {
+   "datei": "lehrkraefte.html",
+   "art": "lehrkraft",
+   "titel": "Für Lehrkräfte"
+  },
+  {
+   "datei": "index.html",
+   "art": "index",
+   "titel": "Übersicht"
+  },
+  {
+   "datei": "start.html",
+   "art": "start",
+   "titel": "🧭 Mein Lernpfad – hier geht's los"
+  },
+  {
+   "datei": "einstufung-im-beruf.html",
+   "art": "einstufung",
+   "titel": "🎯 Einstufungstest: direkt zu Im Beruf",
+   "stufe": "im-beruf",
+   "bestehen": 80
+  }
+ ]
+}
